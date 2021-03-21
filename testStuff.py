@@ -1,4 +1,3 @@
-import starPyramid
+_string = "Hello"
 
-print(__name__)
-starPyramid.pyramid(7)
+input("Enter a word:")
